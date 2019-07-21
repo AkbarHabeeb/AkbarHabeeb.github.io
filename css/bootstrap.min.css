@@ -335,6 +335,12 @@ legend {
 	white-space: normal
 }
 
+
+i.fa.fa-linkedin-square{
+    color: #5b5b5b;
+		font-size:14px;
+}
+
 progress {
 	vertical-align: baseline
 }
